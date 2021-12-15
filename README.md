@@ -1,5 +1,2 @@
-# mirai-console-plugin-template
-
-[Mirai Console](https://github.com/mamoe/mirai-console) 插件模板, 使用 Kotlin + Gradle.
-
-[如何使用](https://github.com/project-mirai/how-to-use-plugin-template)
+# mirai-console-jpa-plugin
+## J Picture Archiving : 这个插件只做一件事，保存机器人收到的所有图片。
